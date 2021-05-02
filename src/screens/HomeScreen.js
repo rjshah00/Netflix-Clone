@@ -37,8 +37,8 @@ function HomeScreen() {
         isLargeRow
       />
       <Row
-        title="Documentaries Movies"
-        fetchUrl={requests.fetchDocumentaries}
+        title="Science Fiction Movies"
+        fetchUrl={requests.fetchScienceFiction}
         isLargeRow
       />
     </div>
