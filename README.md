@@ -54,6 +54,6 @@ npm start
 `Backend` : Firebase <br>
 
 ------------------------------------------
-### <h3>Deployed Website Link - <a href="https://netflix-clone-fd77e.web.app">Netflix clone</b></h3>
+### <h3>Deployed Website Link - <a href="https://netflix-clone-fd77e.web.app">Netflix clone</a></h3>
 
-<h3 align="center">Developed by <a href="https://github.com/rjshah00">Raj Shah</h3>
+<h3 align="center">Developed by <a href="https://github.com/rjshah00">Raj Shah</a></h3>
