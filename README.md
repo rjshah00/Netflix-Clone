@@ -3,8 +3,8 @@
 
 <a href="https://reactjs.org/"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--54ca_F2q--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/1wwdyw5de8avrdkgtz5n.png" width=40 height=40></a>
 <a href="https://firebase.google.com/"><img src="https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_28dp.png" width=40 height=40></a>
-<a href="https://firebase.google.com/"><img src="https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_28dp.png" width=40 height=40></a>
-<a href="https://code.visualstudio.com/ "Visual Studio Code""><img src="https://img.shields.io/badge/IDE-Visual_Studio_Code-purple?style=for-the-badge&logo=visual-studio-code" width=40 height=40></a>
+<a href="https://www.themoviedb.org/"><img src="https://www.themoviedb.org/assets/2/v4/logos/v2/blue_short-8e7b30f73a4020692ccca9c88bafe5dcb6f8a62a4c6bc55cd9ba82bb2cd95f6c.svg" width=40 height=40></a>
+<a href="https://code.visualstudio.com/Visual Studio Code"><img src="https://img.shields.io/badge/IDE-Visual_Studio_Code-purple?style=for-the-badge&logo=visual-studio-code" width=40 height=40></a>
 
 
 
